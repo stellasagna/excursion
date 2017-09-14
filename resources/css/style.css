@@ -1,0 +1,15 @@
+html {
+  text-align: center;
+}
+
+h1.main {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+p.link {
+  font-size: 16px;
+  color: Aquamarine;
+}
